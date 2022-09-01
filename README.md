@@ -18,17 +18,38 @@ You will need a skillshare premium account to access premium content. This scrip
   <li>Opera: <a href="https://addons.opera.com/extensions/details/tampermonkey-beta/">Tampermonkey</a> or <a href="https://violentmonkey.github.io/get-it/">Violentmonkey</a></li>
 </ul>
 </li>
+  <br/>
 <li>install Script
-
+  
+**download skillshare downloader (.js) -- Two versions are available in Farsi and English. Download one according to your needs**
+  
 **Installing the script in each plugin is different, but in general it is done in the same way**
 <h4>install script in Tempermonkey</h4>
 <ol>
 <li>
 open Dashboard 
+
 ![Screenshot (315)](https://user-images.githubusercontent.com/76488912/187952444-99b160e4-12d8-4cf0-a261-77f02e5deaf3.png)
+
+</li>
+<li>
+go to Utilities 
+
+![Screenshot (316)](https://user-images.githubusercontent.com/76488912/187953462-28ea9823-9fe4-419f-a368-9a9f579b45dc.png)
+
+</li>
+<li>
+Click on Import From File and Choose .js script and Click install
+
+![Screenshot (317)](https://user-images.githubusercontent.com/76488912/187954980-636bcecf-92cb-4655-bac5-6cd1863148de.png)
+
+![Screenshot (318)](https://user-images.githubusercontent.com/76488912/187955508-7c4911c3-aa23-4b2a-8de3-30046d9aea1f.png)
 
 </li>
 </ol>
 </li>
-<li>Login to skillshare premium account</li>
+<li>Use The Script
+  
+  Go to the Skillshare website. It should automatically do its thing. (If it is not activated automatically from plugins, run the script manually)
+  </li>
 </ol>
