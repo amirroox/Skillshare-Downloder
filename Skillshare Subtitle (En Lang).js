@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name:en-us   Skillshare Subtitle v1
-// @name         Skillshare Subtitle
+// @name         Skillshare Subtitle En
 // @namespace    https://roox.site      //    https://github.com/amirroox
 // @version      1
 // @description:en-us  Download Subtitle (.srt) & Download Movie (.mp4)
