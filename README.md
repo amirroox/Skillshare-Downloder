@@ -53,3 +53,13 @@ Click on Import From File and Choose .js script and Click install
   Go to the Skillshare website. It should automatically do its thing. (If it is not activated automatically from plugins, run the script manually)
   </li>
 </ol>
+
+# Feature
+<ol>
+<li><b>Download the current movie (mp4 format)</b></li>
+<li><b>Downloads all movies (mp4 format)</b></li>
+<li><b>Download the current subtitle (srt format)</b></li>
+<li><b>Downloads all subtitles (srt format)</b></li>
+<li><b>Download files with original name (.srt & .mp4)</b></li>
+<li><b>Download with one click</b></li>
+</ol>
